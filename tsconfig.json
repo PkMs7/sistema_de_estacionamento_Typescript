@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+  }
+}
+
+// Comandos iniciais para gerar o projeto Typescript:
+// Iniciar o projeto: npx -p typescript tsc --init
+// Transpilar o arquivo TS para JS: npx -p typescript tsc
